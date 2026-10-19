@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=81a1c1&height=110&section=header" alt="header" />
 
-<h2 align="center">Hi there 👋, I'm Naya Nasywa</h2>
+<h1 align="center">Hi there 👋, I'm Naya Nasywa</h1>
 
 <p align="center">
   <a href="https://github.com/nahirae">
@@ -18,7 +18,7 @@
 <!-- Neofetch SVG Integration -->
 <p align="center">
   <a href="https://github.com/nahirae">
-    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=nahirae&theme=nord&headerStyle=mac&typingSpeed=60&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cgit-log%2Cps%2Cabout%2Cexit&customCommands=%7B%22about%22%3A%22Bridging%20the%20gap%20between%20rigid%20logic%20and%20beautiful%20design.%20Obsessed%20with%20smooth%20animations%2C%20clean%20typography%2C%20and%20pixel-perfect%20interfaces.%22%7D" alt="GitHub Stats Terminal" />
+    <img src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=nahirae&theme=nord&headerStyle=mac&typingSpeed=60&hostname=github.com&commands=whoami%2Cneofetch%2Clanguages%2Cuptime%2Cgit-log%2Cabout%2Cexit&customCommands=%7B%22about%22%3A%22Bridging%20the%20gap%20between%20rigid%20logic%20and%20beautiful%20design.%20Obsessed%20with%20smooth%20animations%2C%20clean%20typography%2C%20and%20pixel-perfect%20interfaces.%22%7D" alt="GitHub Stats Terminal" />
   </a>
 </p>
 
